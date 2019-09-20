@@ -13,6 +13,18 @@ namespace Boxing_Unboxing
             list.Add(-1);
             list.Add(true);
             list.Add("chair");
+
+            int sum = 0;
+            foreach (var value in list)
+            {
+                Console.WriteLine(value.ToString());
+
+                if (value is int)
+                {
+                    sum += (int)value;
+                }
+            }
+            Console.WriteLine(sum.ToString());
         }
     }
 }
