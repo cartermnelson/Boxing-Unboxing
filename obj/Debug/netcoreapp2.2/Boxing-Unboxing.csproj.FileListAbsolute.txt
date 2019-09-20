@@ -1,0 +1,11 @@
+C:\Users\cnelson\Google Drive\DojoReview\dotNETCore\C#\Boxing-Unboxing\bin\Debug\netcoreapp2.2\Boxing-Unboxing.deps.json
+C:\Users\cnelson\Google Drive\DojoReview\dotNETCore\C#\Boxing-Unboxing\bin\Debug\netcoreapp2.2\Boxing-Unboxing.runtimeconfig.json
+C:\Users\cnelson\Google Drive\DojoReview\dotNETCore\C#\Boxing-Unboxing\bin\Debug\netcoreapp2.2\Boxing-Unboxing.runtimeconfig.dev.json
+c:\Users\cnelson\Google Drive\DojoReview\dotNETCore\C#\Boxing-Unboxing\bin\Debug\netcoreapp2.2\Boxing-Unboxing.dll
+c:\Users\cnelson\Google Drive\DojoReview\dotNETCore\C#\Boxing-Unboxing\bin\Debug\netcoreapp2.2\Boxing-Unboxing.pdb
+c:\Users\cnelson\Google Drive\DojoReview\dotNETCore\C#\Boxing-Unboxing\obj\Debug\netcoreapp2.2\Boxing-Unboxing.csprojAssemblyReference.cache
+c:\Users\cnelson\Google Drive\DojoReview\dotNETCore\C#\Boxing-Unboxing\obj\Debug\netcoreapp2.2\Boxing-Unboxing.csproj.CoreCompileInputs.cache
+c:\Users\cnelson\Google Drive\DojoReview\dotNETCore\C#\Boxing-Unboxing\obj\Debug\netcoreapp2.2\Boxing-Unboxing.AssemblyInfoInputs.cache
+c:\Users\cnelson\Google Drive\DojoReview\dotNETCore\C#\Boxing-Unboxing\obj\Debug\netcoreapp2.2\Boxing-Unboxing.AssemblyInfo.cs
+c:\Users\cnelson\Google Drive\DojoReview\dotNETCore\C#\Boxing-Unboxing\obj\Debug\netcoreapp2.2\Boxing-Unboxing.dll
+c:\Users\cnelson\Google Drive\DojoReview\dotNETCore\C#\Boxing-Unboxing\obj\Debug\netcoreapp2.2\Boxing-Unboxing.pdb
